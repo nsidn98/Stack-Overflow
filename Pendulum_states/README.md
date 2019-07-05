@@ -6,3 +6,6 @@ Run `DDPG Class ver2 (Pendulum-v0) 3 states.ipynb` for the version with 3 dimens
 
 Once the results are stored in `scores` list, copy them from the first `.ipynb` to the other and then plot the rewards graph.
 
+
+## Credit
+Pendulum Solution by @lirnli [Original repo](https://github.com/lirnli/OpenAI-gym-solutions)
